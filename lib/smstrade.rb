@@ -5,12 +5,13 @@
 # http://github.com/maikelcoke/smstrade_de
 #
 # For use with http://www.smstrade.de
-
+#
 # = Configuration
 #
 #   # config/intializers/smstrade.rb
 #   Smstrade.key = "YOUR_KEY"
 #   Smstrade.route = "ROUTE"
+#
 class Smstrade
 
   require "net/http"
